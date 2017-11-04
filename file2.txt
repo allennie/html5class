@@ -1,3 +1,4 @@
 first line
+i 
 file 2
 okay
